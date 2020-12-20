@@ -55,7 +55,8 @@
         "ts": "never",
         "tsx": "never"
       }
-    ]
+    ],
+    "no-console": ["error", { "allow": ["error"] }]
   },
   "settings": {
     "import/resolver": {
